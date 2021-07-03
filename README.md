@@ -9,5 +9,6 @@
 
 #### Authors:
 
-Teerapong Panboonyuen
-Annop Watthakovit
+- Teerapong Panboonyuen
+
+- Annop Watthakovit
