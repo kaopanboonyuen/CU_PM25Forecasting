@@ -1,0 +1,30 @@
+################################################################
+# Basic packages used in many of the CU-PM2.5 Project.
+
+numpy
+scipy
+jupyter
+matplotlib
+Pillow
+scikit-learn
+
+################################################################
+# TensorFlow v.2.1 and above include both CPU and GPU versions.
+
+tensorflow
+
+################################################################
+# Some tutorials use other individual Python packages.
+# Uncomment the relevant lines for the tutorials you want to run.
+
+# gym[atari]  # Tutorial #16 on Reinforcement Learning.
+# pandas      # Tutorial #23 on Time-Series Prediction.
+
+################################################################
+# PrettyTensor was used as the builder API for several of the
+# earlier tutorials. PrettyTensor is apparently no longer being
+# maintained and may not work with newer versions of TensorFlow.
+
+# prettytensor
+
+################################################################
